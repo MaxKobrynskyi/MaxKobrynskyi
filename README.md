@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxKobrynskyi
 - 👀 I’m interested in WEB Coding;
-- 🌱 I’m currently learning .NET;
+- 🌱 I’m currently learning .NET, ASP.NET, Entity Framework;
 - 💞️ I’m looking to collaborate on all ambitious projects(especially the ones using new technologies) that can improve my skills the most;
 - 📫 How to reach me:
 - max.Kobrynskyi@gmail.com \
